@@ -23,7 +23,7 @@ No = Customer did not subscribe to term deposit
 
 The dataset satisfies the assignment requirements of having more than 500 records and more than 12 features.
 C. GitHub Repository Link
-https://github.com/YOUR_USERNAME/ML-Assignment-2
+https://github.com/chittimannivaralakshmi/Ml-Assignment-2
 D. Models Used
 Logistic Regression
 Decision Tree Classifier
