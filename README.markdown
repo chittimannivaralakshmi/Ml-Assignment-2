@@ -61,4 +61,5 @@ Overall Winner
 
 Random Forest Classifier
 G. Streamlit Application Link
-Paste Streamlit Application URL Here
+
+https://ml-assignment-2-nyhptvh7oxkzhizjuhjfoa.streamlit.app
